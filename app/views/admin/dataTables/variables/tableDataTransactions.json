@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Sale",
+    "product": "IPhone 14 pro",
+    "status": "New",
+    "date": "14 Oct 2022",
+    "amount": 98,
+    "quantity": 1
+  },
+  {
+    "type": "Sale",
+    "product": "IPhone 14 pro",
+    "status": "New",
+    "date": "14 Oct 2022",
+    "amount": 98,
+    "quantity": 2
+  },
+  {
+    "type": "Sale",
+    "product": "IPhone 14 pro",
+    "status": "New",
+    "date": "14 Oct 2022",
+    "amount": 98,
+    "quantity": 3
+  },
+  {
+    "type": "Sale",
+    "product": "IPhone 14 pro",
+    "status": "New",
+    "date": "14 Oct 2022",
+    "amount": 98,
+    "quantity": 2
+  },
+  {
+    "type": "Sale",
+    "product": "IPhone 14 pro",
+    "status": "New",
+    "date": "14 Oct 2022",
+    "amount": 98,
+    "quantity": 1
+  }
+]
